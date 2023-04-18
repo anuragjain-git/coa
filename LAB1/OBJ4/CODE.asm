@@ -1,5 +1,5 @@
-;Name: Sourav Chandra Dey
-;Regd No.: 2141004133
+;Name: ANURAG JAIN
+;Regd No.: 2141010002
 
 MOV AX,4000H
 MOV DS,AX
